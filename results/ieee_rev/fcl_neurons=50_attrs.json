@@ -1,0 +1,1 @@
+{"NUM_NEURONS": 500, "tau_V": 10, "R": 1, "EL": -70.0, "V_th": -40.0, "std_noise": 30, "v_E": 0.0, "v_ave": -67.0, "tau_rise": 0.5, "tau_fall": 5.0, "syn_kernel_len": 50.0}
