@@ -11,7 +11,7 @@ Reliable propagation of slow-modulations of the firing rate across multiple laye
 # Citing this work
 Please use the following citation:
 ```
-Hasanzadeh, Navid, Sayan Faraz, Milos R. Popovic, and Milad Lankarany. "Necessary Conditions for Reliable Propagation of Time-Varying Firing Rate." Frontiers in Computational Neuroscience 14 (2020): 64.
+Hasanzadeh, N., Rezaei, M., Faraz, S., Popovic, M. R., & Lankarany, M. (2020). Necessary Conditions for Reliable Propagation of Time-Varying Firing Rate. Frontiers in Computational Neuroscience, 14, 64.
 ```
 
 # Authors
